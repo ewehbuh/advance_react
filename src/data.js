@@ -4,6 +4,12 @@ export const data = [
   { id: 3, name: 'susan' },
   { id: 4, name: 'anna' },
 ];
+export const person=[
+  { id: 1, name: 'john',hobby:'reading and preaching',age:23 },
+  { id: 2, name: 'peter',hobby:'reading',age:25  },
+  { id: 3, name: 'susan',hobby:'preaching',age:26  },
+  { id: 4, name: 'anna',hobby:'philosophy',age:27  },
+]
 
 export const people = [
   { id: 1, name: 'bob', nickName: 'Stud Muffin' },
